@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Flash Keylogger Pro</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="your_answer">Your answer</string>
+    <string name="create_password">Create Password</string>
+    <string name="navigation_drawer_open">navigation drawer open</string>
+    <string name="navigation_drawer_close">navigation drawer close</string>
+    <string name="accessibility_service_description">Flash Keylogger Pro needs Accessibility Service to record texts.</string>
+    <string name="share_title">Share Flash Keylogger Pro for Android</string>
+    <string name="know_password">Know Password?</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="open_with">Open With</string>
+    <string name="export">Export</string>
+    <string name="share">Share</string>
+    <string name="others">Others</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="rate_app">Rate</string>
+    <string name="feedback">Feedback</string>
+    <string name="no_records">No Records</string>
+    <string name="search_here">Search here</string>
+    <string name="icon_info">Icons are from https://www.flaticon.com</string>
+    <string name="calculator_plus">Calculator Plus</string>
+    <string name="calculator_plus_made_by">Made by Smashicons\n  https://www.flaticon.com/authors/popcorns-arts</string>
+    <string name="calender">calender</string>
+    <string name="calendar_made_by">Made by Freepik\n https://www.flaticon.com/authors/freepik</string>
+    <string name="my_notes">My Notes</string>
+    <string name="my_notes_made_by">Made by Iconpond\n https://www.flaticon.com/authors/popcorns-arts</string>
+    <string name="instantsaver">InstantSaver</string>
+    <string name="new_app_info">Try our new app for Instagram user</string>
+    <string name="instantsaver_download_url">https://play.google.com/store/apps/details?id=unico.instantsaver</string>
+    <string name="order_by">Order by</string>
+    <string name="date_asc">Date ASC</string>
+    <string name="date_desc">Date DESC</string>
+    <string name="view">View</string>
+    <string name="app_icon">App Icon</string>
+    <string name="app_icon_info">Choose an icon to be displayed in Launcher or hide app. Changing icon may take few seconds.</string>
+    <string name="filter_contents">Filter Contents</string>
+    <string name="filter_contents_info">Removes repeated texts</string>
+    <string name="status">Status</string>
+    <string name="flash_keyboard_enabled">Flash Keyboard Enabled</string>
+    <string name="enable_flash_keylogger_pro_keyboard">Enable \'Flash Keylogger Pro\' keyboard</string>
+    <string name="default_keyboard">Default Keyboard</string>
+    <string name="set_default_keyboard">Set \'Flash Keylogger Pro\' as default keyboard</string>
+    <string name="accessibility_service">Accessibility Service</string>
+
+</resources>

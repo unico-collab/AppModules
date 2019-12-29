@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff3d00</color>
+    <color name="colorPrimaryDark">#ff6d00</color>
+    <color name="colorAccent">#ff3d00</color>
+    <color name="keyboardBackground">#EDEFF1</color>
+    <color name="keyColor">#061D27</color>
+    <color name="spaceKey">#CACED1</color>
+    <color name="keyboardViewTopBorder">#E2E2E2</color>
+</resources>

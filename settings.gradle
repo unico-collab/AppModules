@@ -1,0 +1,2 @@
+include ':app', ':general', ':slider'
+rootProject.name='AppModules'

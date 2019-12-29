@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/save"
+        android:title="@string/save"/>
+
+    <item android:id="@+id/copy"
+        android:title="@string/copy_to_clipboard"/>
+
+    <item android:id="@+id/delete"
+        android:title="@string/delete"/>
+
+    <item android:id="@+id/share"
+        android:title="@string/share"/>
+
+    <item android:title="@string/order_by">
+        <menu>
+            <item android:id="@+id/nav_order_asc"
+                android:title="@string/date_asc"/>
+            <item android:id="@+id/nav_order_desc"
+                android:title="@string/date_desc"/>
+        </menu>
+    </item>
+</menu>
